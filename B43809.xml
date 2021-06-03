@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Remarks on the account given by the Irish Trustees in one of their books called, An abstract of their rent-roll, laid before the House of Commons this session of Parliament, of the yearly value of the estate petitioned for by Lord Bophin and his children.  The book is number 2.  The value of the estate Lord Gallway had in possession is under the title of estates tail vested in fee; and of the estate Lord Bophin had in possession, under the title of estates forfeited for life.</title>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B43809</idno><idno type="EEBO-CITATION">297426166</idno>
+  <idno type="VID">208158</idno>
+  <idno type="EEBO-PROQUEST">2240891310</idno>
+  
+            <idno type="OCLC"> 297426166</idno>
+            <idno type="OCLC">ocn 297426166</idno>
+            <idno type="STC">Wing R932_VARIANT</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B43809)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 208158)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2924:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Remarks on the account given by the Irish Trustees in one of their books called, An abstract of their rent-roll, laid before the House of Commons this session of Parliament, of the yearly value of the estate petitioned for by Lord Bophin and his children.  The book is number 2.  The value of the estate Lord Gallway had in possession is under the title of estates tail vested in fee; and of the estate Lord Bophin had in possession, under the title of estates forfeited for life.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1698?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Clanricarde, John Bourke, --  Earl of, 1642-1722 --  Early works to 1800.</term>
+               <term type="topical_term">Forfeiture --  Ireland --  Early works to 1800.</term>
+               <term type="topical_term">Estates (Law) --  Ireland --  Early works to 1800.</term>
+               <term type="topical_term">Debt --  Ireland --  Early works to 1800.</term>
+               <term type="geographic_name">Ireland --  History --  War of 1689-1691 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:208158:1"/>
+            <pb n="1" facs="tcp:208158:2"/>
+            <head>
+               <hi>REMARKS</hi> on the ACCOUNT given by the <hi>IRISH TRUSTEES</hi> in one of their Books called, <hi>An Abstract of their Rent-Roll,</hi> laid before the House of Commons this Session of Parliament, of the yearly Value of the Estate petitioned for by Lord <hi>Bophin</hi> and his Children. The Book is Number <hi>2.</hi> The Value of the Estate Lord <hi>Gallway</hi> had in posses<g ref="char:EOLhyphen"/>sion is under the Title of Estates Tail vested in Fee; and of the Estate Lord <hi>Bophin</hi> had in possession, under the Title of Estates forfeited for Life.</head>
+            <p>BY that Account (wherein no Mistake that might lessen the Value is to be presumed) allowing for Jointures, Mortgages, and the Interest of other Incumbrances there mentioned; the clear present yearly Value of the whole Estate petition'd for, is but—2423 <hi>l.</hi> 00 <hi>s.</hi> 00 <hi>d.</hi>
+            </p>
+            <p>Since this Rent-Roll has been made, several Incumbrances on that Estate not there mentioned, have been allowed by the Trustees, amounting at least to Eight Thousand Pounds, the Interest whereof is to be deducted out of the a<g ref="char:EOLhyphen"/>bove-mentioned clear yearly Rent: So that there remains now of clear yearly Rent but—1623 <hi>l.</hi> 00 <hi>s.</hi> 00 <hi>d.</hi>
+            </p>
+            <p>This, allowing the Trustees Account, is the present Value of that Forfeited Estate: And since this Honourable House, on the particular Circumstances of the Settlement on Lord <hi>Gallway,</hi> seems to be of opinion that his Estate is forfeited only during Lord <hi>Bophin</hi>'s Life; all the Increase this present yearly Value can ever have, is the Remainder Lord <hi>Bophin</hi> has for Life on that part of the Estate, which is in Jointure to the Countess Dowager of <hi>Clanricard,</hi> and that is of little or no value to the Publick, for 'tis only a Forfeiture for Lord <hi>Bophin</hi>'s Life, in case he happens to survive the said Countess Dowager, who is younger, healthier, and more likely to live than Lord <hi>Bophin.</hi> That part of the Estate of <hi>Clanricard,</hi> which the present Earl of that Name enjoys, cannot be reckoned on as of any Value to the Publick, for that Earl is no forfeiting Person, he has that part of the Estate to him and his Sons successively; and if he has Issue-Male, as in all appearance he may (for he had lately a Daughter born) his Estate will never become forfeited, and should it, 'tis only for Lord <hi>Bophin</hi>'s Life, in case he happens to survive the said Earl. This is the utmost Value and Computation the severest Accomptant can make of that great For<g ref="char:EOLhyphen"/>feiture so much talked of, and that only for Lord <hi>Bophin</hi>'s Life; and with humble Submission it ought to be no Forfeiture at all, considering the Right Lord <hi>Bophin</hi> had to be restored by the Articles of <hi>Gallway.</hi>
+            </p>
+            <p>And it is humbly offered, that the extreme yearly Value of the said Estate, as mentioned in the Trustees said Rent-Roll, without regard to Jointures, Incumbrances, or to what they themselves have set it for, is very extraordinary; for <hi>William</hi> late Earl of <hi>Clanricard,</hi> who had the whole Estate in possession, and
+<pb n="2" facs="tcp:208158:3"/>did set it to the full, never made of the whole Eastate much above half what that part that is forfeited is now by that extreme Computation valued at, as may appear by his Rent-Rolls in the Years 1685, and 1686, ready to be pro<g ref="char:EOLhyphen"/>duced.</p>
+            <p>'Tis therefore most humbly hoped, That the Honourable the House of Commons, who seem willing to relieve this unfor<g ref="char:EOLhyphen"/>tunate Family, and have shewed Mercy and Compassion to o<g ref="char:EOLhyphen"/>thers under the like unhappy Circumstances, will have that Regard and Compassion for Lord <hi>Bophin</hi> and his Children, as not to burden their Estate so far, but that they may have hopes of living sutable to their Quality, and of being hereafter serviceable to <hi>England;</hi> and this the rather, that the very Tie that is to be upon them of leasing the said Estate to none but Protestants, will reduce the Value there<g ref="char:EOLhyphen"/>of to half what it might be set for were the best Bidders to be Te<g ref="char:EOLhyphen"/>nants, it being very difficult to find Protestant Tenants where that Estate lies, the Yeomanry being all Roman Catholicks; and 'tis reasonably feared, if that Tie and Injunction be not qualified, that the most part of the Estate must lie waste, or be set for little or no<g ref="char:EOLhyphen"/>thing; for the Protestants in that part of the Countrey have already Farms enough, and to be sure will take no new ones, if they have them not at their own Rates.</p>
+         </div>
+      </body>
+      <back>
+         <div type="half_title">
+            <pb facs="tcp:208158:3"/>
+            <p>REMARKS ON THE Value of the Estate petitioned for by Lord <hi>Bopbin</hi> and his Children.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
